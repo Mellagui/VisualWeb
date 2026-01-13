@@ -67,6 +67,7 @@ Contributions are welcome! If you have a diagram that explains a complex concept
 3.  Update this README to link to your new diagram.
 4.  Open a Pull Request.
 
+**[Contribution Guidelines](https://github.com/Mellagui/DevAtlas/blob/ece70beeecda223fcff2c5f7fdf854409accb4bb/Contributing/README.md)**
 ---
 
 ## 📜 License
