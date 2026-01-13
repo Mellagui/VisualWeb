@@ -8,11 +8,11 @@ A curated collection of architectural diagrams, database schemas, and web concep
 
 ## 📂 Table of Contents
 
-- [Project Structures](#-project-structures)
-- [Database Diagrams](#-database-diagrams)
-- [Web Concepts & Internals](#-web-concepts--internals)
-- [Framework Ecosystems](#-framework-ecosystems)
-- [Contributing](#-contributing)
+- [Project Structures](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Project%20Structures)
+- [Database Diagrams](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Database%20Diagrams)
+- [Web Concepts & Internals](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Web%20Concepts%20%26%20Internals)
+- [Framework Ecosystems](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Framework%20Ecosystems)
+- [Contributing](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Contributing)
 
 ---
 
