@@ -1,6 +1,6 @@
-# [DevAtlas](https://github.com/Mellagui/DevAtlas)
+# [VisualWeb](https://github.com/Mellagui/VisualWeb)
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![License](https://img.shields.io/github/license/Mellagui/DevAtlas)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![License](https://img.shields.io/github/license/Mellagui/VisualWeb)
 
 A curated collection of architectural diagrams, database schemas, and web concept visualizations. This repository serves as a visual reference guide for developers, students, and architects to understand system structures and data flows quickly.
 
@@ -8,11 +8,11 @@ A curated collection of architectural diagrams, database schemas, and web concep
 
 ## 📂 Table of Contents
 
-- [Project Structures](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Project%20Structures)
-- [Database Diagrams](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Database%20Diagrams)
-- [Web Concepts & Internals](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Web%20Concepts%20%26%20Internals)
-- [Framework Ecosystems](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Framework%20Ecosystems)
-- [Contributing](https://github.com/Mellagui/DevAtlas/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Contributing)
+- [Project Structures](https://github.com/Mellagui/VisualWeb/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Project%20Structures)
+- [Database Diagrams](https://github.com/Mellagui/VisualWeb/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Database%20Diagrams)
+- [Web Concepts & Internals](https://github.com/Mellagui/VisualWeb/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Web%20Concepts%20%26%20Internals)
+- [Framework Ecosystems](https://github.com/Mellagui/VisualWeb/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Framework%20Ecosystems)
+- [Contributing](https://github.com/Mellagui/VisualWeb/tree/90a83338a09a3b6d7f137bd408bb010605be1caf/Contributing)
 
 ---
 
@@ -60,14 +60,9 @@ A curated collection of architectural diagrams, database schemas, and web concep
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have a diagram that explains a complex concept simply:
+Contributions are welcome! If you have a diagram that explains a complex concept simply.
 
-1.  Fork the project.
-2.  Add your diagram file to the appropriate folder (e.g., `/concepts`, `/databases`).
-3.  Update this README to link to your new diagram.
-4.  Open a Pull Request.
-
-**[Contribution Guidelines](https://github.com/Mellagui/DevAtlas/blob/ece70beeecda223fcff2c5f7fdf854409accb4bb/Contributing/README.md)**
+**[Contribution Guidelines](https://github.com/Mellagui/VisualWeb/blob/e0e1ed3578079e24bf231f46a57c9aee0607c7a8/CONTRIBUTING.md)**
 ---
 
 ## 📜 License
