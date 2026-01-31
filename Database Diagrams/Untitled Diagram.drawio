@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
-    <mxGraphModel dx="2326" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1612" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1875,7 +1875,7 @@
         <mxCell id="8QpOBZdo_BNiEOVOQ9VK-822" parent="8QpOBZdo_BNiEOVOQ9VK-812" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Creation timestamp" vertex="1">
           <mxGeometry height="34" width="160" y="146" as="geometry" />
         </mxCell>
-        <mxCell id="8QpOBZdo_BNiEOVOQ9VK-474" parent="8QpOBZdo_BNiEOVOQ9VK-351" style="swimlane;startSize=30;verticalAlign=top;" value="saved_post" vertex="1">
+        <mxCell id="8QpOBZdo_BNiEOVOQ9VK-474" parent="8QpOBZdo_BNiEOVOQ9VK-351" style="swimlane;startSize=30;verticalAlign=top;" value="post_save" vertex="1">
           <mxGeometry height="149" width="540" x="10" y="1110" as="geometry">
             <mxRectangle height="30" width="70" x="680" y="730" as="alternateBounds" />
           </mxGeometry>
